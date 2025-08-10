@@ -1,3 +1,3 @@
-module github.com/costam/costam
+module github.com/costam/set_get_time
 
 go 1.24.0
